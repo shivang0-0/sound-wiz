@@ -23,7 +23,7 @@ Getting ahead
 
 
 ## Demo
-demo.gif
+![](https://github.com/shivang0-0/sound-wiz/blob/main/demo.gif)
 
 ## Contributing
 
