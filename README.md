@@ -30,9 +30,6 @@ Getting ahead
 ![Screenshot 2](assets/2.jpg)
 
 
-![Screenshot 3](assets/3.jpg)
-
-
 ## Contributing
 
 Contributions are always welcome!
