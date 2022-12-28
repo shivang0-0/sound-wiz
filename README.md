@@ -22,8 +22,15 @@ Getting ahead
 ```
 
 
-## Demo
-![](https://github.com/shivang0-0/sound-wiz/blob/main/demo.gif)
+## Screenshots
+![Alt text](assets/1.png)
+
+
+![Alt text](assets/2.png)
+
+
+![Alt text](assets/3.png)
+
 
 ## Contributing
 

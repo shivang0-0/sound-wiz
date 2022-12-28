@@ -28,7 +28,7 @@ let Particle = function(position) {  //initiating properties of object Particle
 }
 
 function preload() {
-  song = loadSound('bones.mp3')
+  song = loadSound('assets/bones.mp3')
   fft = new p5.FFT()
 }
 
