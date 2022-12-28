@@ -24,13 +24,13 @@ Getting ahead
 
 ## Screenshots
 
-![Alt text](assets/1.jpg)
+![Screenshot 1](assets/1.jpg)
 
 
-![Alt text](assets/2.jpg)
+![Screenshot 2](assets/2.jpg)
 
 
-![Alt text](assets/3.jpg)
+![Screenshot 3](assets/3.jpg)
 
 
 ## Contributing
